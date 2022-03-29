@@ -2,7 +2,8 @@
 Aplicação dotnet para cálculo do IMC.
 
 ## Funcionalidades
--Calcula o IMC
+- Calcula o IMC
+- Apresenta a situação do usuário 
 
 ## Tecnologias 
 - DotNet core 2.1
